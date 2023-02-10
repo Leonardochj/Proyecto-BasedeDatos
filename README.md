@@ -4,4 +4,4 @@
 ## Carrera de Computación
 ## Hermin Leonardo CHuquimarca Jaramillo
 ## Fundamentos de Base de Datos
-Octubre 2022 - Febrero 2023
+## Octubre 2022 - Febrero 2023
